@@ -14,12 +14,13 @@ I am a passionate BTech student at [IIT Madras](https://www.iitm.ac.in/), specia
 ## 🛠️ Projects
 
 ### Pattern Recognition & Machine Learning
-
-- **CIFAR-10 Classification**: Implemented ANN, CNN, and EfficientNet architectures for image classification.  
-  [GitHub Repo](https://github.com/Eswar-gupta?tab=repositories&q=cifar&type=&language=&sort=)  
-- **Heart Disease Prediction**: Analyzed dataset to predict patient risk. Applied Regression, KNN, Random Forest, and more; Random Forest reached 95% accuracy.  
-  [GitHub Repo](https://github.com/Eswar-gupta?tab=repositories&q=heart&type=&language=&sort=)  
-- **SMS Spam Classifier**: Developed RNN-based model for accurate SMS spam detection.
+  
+- **Heart Disease Prediction**: Analyzed dataset to predict patient risk. single Decision Tree , Random Forest, and xgboost; Random Forest reached 95% accuracy.  
+  [GitHub Repo](https://github.com/Eswar-gupta/Heart_diseases_dataset_ML_project)
+- **Recommender systems**: •	Engineered comprehensive movie recommender systems using datasets like MovieLens, implementing collaborative filtering from scratch and leveraging neural networks for content-based approaches to personalize user recommendations.  
+  [GitHub Repo](https://github.com/Eswar-gupta/Recommender-systems-ML-project)
+- **Diffrent ML algos**: • Implemented ML algorithms from scratch, such as Linear/Logistic Regression, Multiclass Classification and Neural Networks , K-means and anomaly detection....  
+  [GitHub Repo]("Jypyter notebook will be uploded soon") 
 
 ### News Perspective Generator Web App
 
