@@ -50,7 +50,7 @@ MATLAB, Jupyter Lab, GitHub, Notion, LaTeX, Vivado, Render, Microchip Studio, Ea
 ---
 
 ## 📫 Contact
-- **Student Email:** [v.eswar2005@gmail.com@gmail.com](mailto:v.eswar2005@gmail.com)
+- **Student Email:** [ee23b085@smail.iitm.ac.in](mailto:v.eswar2005@gmail.com)
 - **Personal Email:** [v.eswar2005@gmail.com@gmail.com](mailto:v.eswar2005@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/eswar-gupta-b80931291/](https://www.linkedin.com/in/eswar-gupta-b80931291/)
 - **GitHub:** [Eswar-gupta](https://github.com/Eswar-gupta)
