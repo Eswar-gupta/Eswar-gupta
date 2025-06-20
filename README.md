@@ -15,7 +15,7 @@ I am a passionate BTech student at [IIT Madras](https://www.iitm.ac.in/), specia
 
 ### Pattern Recognition & Machine Learning
   
-- **Heart Disease Prediction**: Analyzed dataset to predict patient risk. single Decision Tree , Random Forest, and xgboost; Random Forest reached 95% accuracy.  
+- **Heart Disease Prediction**: Analyzed dataset to predict patient risk. single Decision Tree , Random Forest, and xgboost; Random Forest reached 89% test accuracy and 95% train accuracy.  
   [GitHub Repo](https://github.com/Eswar-gupta/Heart_diseases_dataset_ML_project)
 - **Recommender systems**: •	Engineered comprehensive movie recommender systems using datasets like MovieLens, implementing collaborative filtering from scratch and leveraging neural networks for content-based approaches to personalize user recommendations.  
   [GitHub Repo](https://github.com/Eswar-gupta/Recommender-systems-ML-project)
