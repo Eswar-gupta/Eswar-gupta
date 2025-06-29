@@ -45,7 +45,7 @@ MATLAB, Jupyter Lab, GitHub, Notion, LaTeX, Vivado, Render, Microchip Studio, Ea
 
 ## 📄 Resume
 
-[View/Download Resume](#) <!-- Replace # with actual resume link or embed if available -->
+[View/Download Resume](https://drive.google.com/file/d/1Kq8zb_h_CMvQjbtRb3aywMMW9luq0H0D/view?usp=drive_link) <!-- Replace # with actual resume link or embed if available -->
 
 ---
 
