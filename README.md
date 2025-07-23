@@ -20,7 +20,7 @@ I am a passionate BTech student at [IIT Madras](https://www.iitm.ac.in/), specia
 - **Recommender systems**: •	Engineered comprehensive movie recommender systems using datasets like MovieLens, implementing collaborative filtering from scratch and leveraging neural networks for content-based approaches to personalize user recommendations.  
   [GitHub Repo](https://github.com/Eswar-gupta/Recommender-systems-ML-project)
 - **Diffrent ML algos**: • Implemented ML algorithms from scratch, such as Linear/Logistic Regression, Multiclass Classification and Neural Networks , K-means and anomaly detection....  
-  [GitHub Repo]("Jypyter notebook will be uploded soon") 
+ 
 
 ### News Perspective Generator Web App
 
