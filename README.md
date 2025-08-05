@@ -1,6 +1,6 @@
 # Eswar Gupta | EE23B085
 
-🤖 **AI Enthusiast** | 🧑‍🔬 **Electrical Engineering Student** 
+🤖 **Software and quant Enthusiast** | 🧑‍🔬 **Electrical Engineering Student** 
 
 ## About Me
 I am a passionate BTech student at [IIT Madras](https://www.iitm.ac.in/), specializing in Electrical Engineering. I thrive on exploring innovative deep learning techniques and applying them to solve complex problems in various domains.
