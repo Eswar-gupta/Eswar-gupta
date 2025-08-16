@@ -13,14 +13,22 @@ I am a passionate BTech student at [IIT Madras](https://www.iitm.ac.in/), specia
 
 ## 🛠️ Projects
 
-### News Perspective Generator Web App
+### **News Perspective Generator Web App**  
+- **AI-powered web application**, developed in **Python**, leveraging **Gemini API**. Deployed using **Google Cloud** and **Firebase**.  
+- Scrapes user-provided article URLs with **BeautifulSoup** to extract relevant content, then lets users choose **UPSC, Political, or Business lenses** for detailed analysis via the **Gemini API** in backend.  
+- Designed **full-stack architecture**, integrating an **HTML/CSS frontend** hosted via **Firebase Hosting** with a **Python/Flask backend** deployed to **Google Cloud Run**. Configured services and debugged deployment processes.  
+  [**GitHub Repo**](https://github.com/Eswar-gupta/AWS_News_Analyzer_Web_App)  
+  [**Live Website**](https://aws-newsprespective-eswar-791771891862.us-central1.run.app/)  
+- Also gained **deployment experience with Render** for the first version.  
 
-- **AI-powered News Analysis Tool**:  
-  - Deployed on Render, Python backend integrated with Gemini API  
-  - Scrapes articles using Flask & BeautifulSoup  
-  - Provides UPSC, Political, or Business perspectives using Gemini API on Hugging Face  
-  [GitHub Repo](https://github.com/Eswar-gupta/News-Perspective-Generator)  
-  [Live Website](https://news-perspective-generator.onrender.com)  
+---
+
+### **Text Summarizer**  
+- **Developed and deployed** a **text summarization web application** using **Hugging Face’s Google Pegasus model**, enabling users to generate concise summaries of long-form text with **adjustable summary length**.  
+- **Hosted** the application on **PythonAnywhere** with a **Flask backend**, integrating **external APIs**, **YAML-based configuration management**, and a simple **frontend UI** for **real-time interaction**.  
+  [**GitHub Repo**](https://github.com/Eswar-gupta/website_using_hugging_face_api_first_time)  
+  [**Live Website**](https://eswargupta.pythonanywhere.com/)  
+
 
 ### Pattern Recognition & Machine Learning
   
