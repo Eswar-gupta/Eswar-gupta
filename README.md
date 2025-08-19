@@ -1,6 +1,6 @@
 # Eswar Gupta | EE23B085
 
-🤖 **AI Enthusiast** | 🧑‍🔬 **Electrical Engineering Student | upcoming JP Morgan and chace intern** 
+🤖 **AI and software Enthusiast** | 🧑‍🔬 **Electrical Engineering Student | upcoming JP Morgan and chace intern** 
 
 ## About Me
 I am a passionate BTech student at [IIT Madras](https://www.iitm.ac.in/), specializing in Electrical Engineering. I thrive on exploring innovative deep learning techniques and applying them to solve complex problems in various domains.
