@@ -2,7 +2,7 @@
 
 🤖 **AI and software Enthusiast** | 🧑‍🔬 **IIT Madras Student | upcoming JPMorgan Chase & Co. intern** 
 
-Linkdien Profile --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eswar-gupta-b80931291/)
+🔗💼 [Connect on LinkedIn](https://www.linkedin.com/in/eswar-gupta-b80931291/)
 
 ## About Me
 I am a passionate BTech student at [IIT Madras](https://www.iitm.ac.in/), specializing in Electrical Engineering. I thrive on exploring innovative deep learning techniques and applying them to solve complex problems in various domains.
